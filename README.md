@@ -2,6 +2,9 @@
 
 [Ресурс](https://bar-hopping-project.herokuapp.com/) для поиска авторских баров, ресторанов или кофеен
 
+Test
+![Запись экрана 2022-04-22 в 02 20 53](https://user-images.githubusercontent.com/98102060/164567874-deaa4251-42e4-4573-a166-ee95015c9579.gif)
+
 #### На главное странице есть возможность составить маршрут до места, а также добавить его в избранное:
 
 ![home_page](https://user-images.githubusercontent.com/98102060/163859058-e1953e57-b08b-4e6d-9c19-dac392146e48.gif)
