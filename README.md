@@ -37,4 +37,4 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 Stack:
-Node JS, Express, Sequelize, HBS
+React, Redux-Thunk, Axios, Node.js, Express, PostgreSQL, Sequelize ORM, Socket.io, Docker
