@@ -4,26 +4,22 @@
 
 #### Registration Form with Sessions:
 
-![Запись экрана 2022-04-22 в 02 20 53](https://user-images.githubusercontent.com/98102060/164567874-deaa4251-42e4-4573-a166-ee95015c9579.gif)
+![registration](https://user-images.githubusercontent.com/98102060/164570651-7fc8154b-f98b-48dd-a4b7-1a14d61ba41e.gif)
+_____________________________________________________________________________________________________________________
 
 #### Main Page including all places and you can pick some of them to your favorites or check routes on the map:
 
-![home_page](https://user-images.githubusercontent.com/98102060/163859058-e1953e57-b08b-4e6d-9c19-dac392146e48.gif)
+![main](https://user-images.githubusercontent.com/98102060/164571730-b2f95697-18fe-4806-ab41-6f798fdef5a9.gif)
 _____________________________________________________________________________________________________________________
 
 #### Main Map and chat on Socket.io
 
-![map_chat](https://user-images.githubusercontent.com/98102060/163860484-37a50ce0-782c-4f6a-ac93-55768eb57c36.gif)
+![map_chat](https://user-images.githubusercontent.com/98102060/164575218-1ffabc9a-66a6-4fb0-9a3d-947184db8332.gif)
 _____________________________________________________________________________________________________________________
 
 #### You can check your favorites and some invites from other people:
 
-![profile](https://user-images.githubusercontent.com/98102060/163861690-59b0464e-8d15-4aa0-b441-d64796cde5c5.gif)
-_____________________________________________________________________________________________________________________
-
-#### Changing profile data:
-
-![edit](https://user-images.githubusercontent.com/98102060/163865769-0608d9e3-bc89-463f-a535-5a7e3d5e661a.gif)
+![profile](https://user-images.githubusercontent.com/98102060/164576330-a8b20367-c03e-4e1b-a8df-01120378b5f7.gif)
 _____________________________________________________________________________________________________________________
 
 #### Admin is able to add some new places:
