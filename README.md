@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 #### Admin can check all authorized users and change their status:
 
-![delete](https://user-images.githubusercontent.com/98102060/163864762-37dc38d8-f24d-48e7-9bc2-8419a31a3459.gif)
+![admin_panel](https://user-images.githubusercontent.com/98102060/164890389-4020980b-7de8-4ca8-a4e1-25c2a2ba5e65.gif)
 _____________________________________________________________________________________________________________________
 
 Stack:
